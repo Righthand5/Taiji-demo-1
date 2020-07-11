@@ -1,1 +1,6 @@
 ./cache
+/node_modules
+/.cache/1c
+/.cache/3e
+/.cache/b4
+/.cache/d3
